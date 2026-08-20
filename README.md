@@ -1,9 +1,12 @@
 # CLEP - China's Lunar Exploration Pack
 Developed by: SRPN
+
 Current Version: v0.4.1
+
 Compatible KSP Version: 1.12.x
+
 ## Introduction & Background
-Lunar exploration has always been a fascinating part of human aerospace history, especially for China. The legendary myth of Chang'e Flying to the Moon has been passed down for thousands of years, representing the nation’s long-standing dream of exploring the lunar surface. In modern times, China’s lunar exploration program has developed rapidly and achieved remarkable milestones. With the upcoming launch of Chang’e-7 mission, lunar exploration technology continues to mature and advance.
+  Lunar exploration has always been a fascinating part of human aerospace history, especially for China. The legendary myth of Chang'e Flying to the Moon has been passed down for thousands of years, representing the nation’s long-standing dream of exploring the lunar surface. In modern times, China’s lunar exploration program has developed rapidly and achieved remarkable milestones. With the upcoming launch of Chang’e-7 mission, lunar exploration technology continues to mature and advance.
 
 For the Kerbal Space Program community, high-quality and up-to-date Chinese lunar exploration mods have long been lacking. The old Chang’e-3 mod assets are outdated and no longer compatible with the latest KSP 1.12.x versions, leaving players unable to restore realistic Chinese lunar missions in-game. To fill this community gap, the SRPN Team officially releases the CLEP (Chinese Lunar Exploration Pack) for all KSP players.
 ## Mod Content Overview
@@ -15,21 +18,35 @@ Future updates will continuously optimize existing assets and add the complete C
 ## Mod Dependencies & Compatibility
 ### Mandatory Dependencies (Required):
 This mod cannot work properly without the following modules and official DLC:
+
 •	Real Chute
+
 •	Ferram Aerospace Research (FAR)
+
 •	Breaking Ground Official DLC — Essential for the normal rotation of the probe ladder; no ladder animation without this DLC.
+
 ### Fully Supported Mods
 CLEP is fully compatible with the following classic KSP mods, supporting parameter adaptation and functional linkage:
+
 •	RealismOverhaul
+
 •	RealFuels
+
 •	Waterfall
+
 •	Tweakscale
+
 •	TextureUnlimited
+
 ### Highly Recommended Mods
 Install these mods to get a more realistic and stable gaming experience:
+
 •	Kerbal Joint Reinforcement (KJR) — Improve rocket and probe structural stability
+
 •	KCAP Full Series
+
 •	KIU Full Series Mods
+
 ## Join SRPN Team
 The SRPN Team is always recruiting new members who are interested in KSP mod production and deep-space exploration content development. We welcome all players to join our team to participate in the production, optimization and internal testing of CLEP and other deep-space exploration mods. Whether you are a beginner or an experienced modder, you are welcome to communicate and create together with us.
 ## Known Bugs & Instructions
