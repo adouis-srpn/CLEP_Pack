@@ -45,7 +45,7 @@ Some texture resources and waterfall effect templates used in this mod are refer
 ## Authors：
 Director: adouis_srpn
 
-Custodian: China National Space Administration ，Central Committee of the Communist Youth League , the Education Department of Guangxi Ahuang Autonoment Region , People's Education Press
+Custodian: China National Space Administration ，Central Committee of the Communist Youth League , the Education Department of Guangxi Zhuang Autonoment Region , People's Education Press
 
 Work Unit of Join: China Manned Space Agency , Deep Space Exploration Lab , China Academy of Space Technology ，Star Pavillion(SRPN)
 
