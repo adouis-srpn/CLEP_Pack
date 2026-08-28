@@ -1,5 +1,5 @@
 # CLEP - China's Lunar Exploration Pack
-Developed by: SRPN
+Developed by: [SRPN](https://srpn.top/)
 
 Current Version: v0.4.1
 
@@ -19,36 +19,38 @@ Compatible KSP Version: 1.12.x
 ### Mandatory Dependencies (Required):
 This mod cannot work properly without the following modules and official DLC:
 
-•	Real Chute
+•	[Real Chute](https://github.com/ChrisViral/RealChute)
 
-•	Ferram Aerospace Research (FAR)
+•	[Ferram Aerospace Research (FAR)](https://github.com/KSPModStewards/Ferram-Aerospace-Research)
+
+•	[TextureUnlimited](https://github.com/KSPModStewards/TexturesUnlimited)
 
 •	Breaking Ground Official DLC — Essential for the normal rotation of the probe ladder; no ladder animation without this DLC.
 
 ### Fully Supported Mods
 CLEP is fully compatible with the following classic KSP mods, supporting parameter adaptation and functional linkage:
 
-•	RealismOverhaul
+•	[RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
 
-•	RealFuels
+•	[RealFuels](https://github.com/KSP-RO/RealFuels)
 
-•	Waterfall
+•	[Waterfall](https://github.com/KSPModStewards/Waterfall)
 
-•	Tweakscale
+•	[Tweakscale](https://github.com/TweakScale/TweakScale/)
 
-•	TextureUnlimited
+
 
 ### Highly Recommended Mods
 Install these mods to get a more realistic and stable gaming experience:
 
-•	Kerbal Joint Reinforcement (KJR) — Improve rocket and probe structural stability
+•	[Kerbal Joint Reinforcement (KJR)](https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued) — Improve rocket and probe structural stability
 
-•	KCAP Full Series
+•	[KCAP](https://github.com/Industrial-Pigeon-and-Magic/KerwisChineseAerospacePack) Full Series
 
-•	KIU Full Series Mods
+•	[KIU](https://github.com/Armo00/KIU-Pack) Full Series Mods
 
-## Join SRPN Team
-…………The SRPN Team is always recruiting new members who are interested in KSP mod production and deep-space exploration content development. We welcome all players to join our team to participate in the production, optimization and internal testing of CLEP and other deep-space exploration mods. Whether you are a beginner or an experienced modder, you are welcome to communicate and create together with us.
+## Join [SRPN](https://srpn.top/) Team
+…………The [SRPN](https://srpn.top/) Team is always recruiting new members who are interested in KSP mod production and deep-space exploration content development. We welcome all players to join our team to participate in the production, optimization and internal testing of CLEP and other deep-space exploration mods. Whether you are a beginner or an experienced modder, you are welcome to communicate and create together with us.
 ## Known Bugs & Instructions
 …………We sincerely apologize for the potential bugs in the mod. Limited by our current technical capabilities, we cannot fix all abnormal problems perfectly for the time being.
 To solve common animation bugs, we have added a Fix Bug button in the mod. Players can manually click this button to repair most probe animation failures in one click.
@@ -57,7 +59,7 @@ To solve common animation bugs, we have added a Fix Bug button in the mod. Playe
 ## License & Credits
 …………This CLEP mod is released under the CC BY-SA 4.0 License. All players are free to use, modify and redistribute it under the terms of the open-source license.
 
-…………Some texture resources and waterfall effect templates used in this mod are referenced and adapted from the Kerwis Chinese Aerospace Pack and the KIU Mod Series. We sincerely thank the original authors for their excellent open-source works.
+…………Some texture resources and waterfall effect templates used in this mod are referenced and adapted from the [Kerwis Chinese Aerospace Pack](https://github.com/Industrial-Pigeon-and-Magic/KerwisChineseAerospacePack) and the [KIU](https://github.com/Armo00/KIU-Pack) Mod Series. We sincerely thank the original authors for their excellent open-source works.
 ### Enjoy authentic Chinese lunar exploration missions in KSP! 🚀
 ## Authors：
 ### Director: 
@@ -65,5 +67,5 @@ adouis_srpn
 ### Custodian: 
 China National Space Administration ，Central Committee of the Communist Youth League , the Education Department of Guangxi Zhuang Autonoment Region , People's Education Press
 ### Work Unit of Join: 
-China Manned Space Agency , Deep Space Exploration Lab , China Academy of Space Technology ，Star Pavillion(SRPN)
+China Manned Space Agency , Deep Space Exploration Lab , China Academy of Space Technology ，[Star Pavillion(SRPN)](https://srpn.top/)
 
